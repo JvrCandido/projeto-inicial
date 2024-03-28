@@ -27,3 +27,7 @@ form {
 p {
     color: green;
 }
+/* Estilo para o rodapé */
+footer {
+    border-top: 2px solid red;
+}
