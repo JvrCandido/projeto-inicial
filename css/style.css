@@ -1,33 +1,48 @@
-/* cor de fundo para o cabeçalho*/
+/* cabeçalho */
 header {
     background-color: blue;
+    padding: 20px;
+    text-align: center;
 }
-/* fonte serifada para todos os títulos*/
+
+/*  títulos */
 h1, h2 {
     font-family: serif;
 }
-/*  links da barra de navegação em negrito*/
-nav a {
+
+/*  barra de navegação */
+.menu a {
     font-weight: bold;
 }
-/*   classe container */
+
+/* classe container */
 .container {
     padding: 20px;
 }
-/* Estilo para todo o conteúdo dentro da section com o id conteudo */
+
+/*  id conteudo */
 section {
     line-height: 1.5;
 }
-/* Estilo para o formulário de contato */
+
+/* formulário de contato */
 form {
     border: 1px solid grey;
     padding: 10px;
 }
-/* Estilo para todos os parágrafos */
+
+/* parágrafos */
 p {
     color: green;
 }
-/* Estilo para o rodapé */
+
+/*  formulário de contato */
+form button {
+    background-color: blue;
+    color: white;
+}
+
+/*  rodapé */
 footer {
     border-top: 2px solid red;
 }
