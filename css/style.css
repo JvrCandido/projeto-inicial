@@ -18,3 +18,8 @@ nav a {
 section {
     line-height: 1.5;
 }
+/* Estilo para o formulário de contato */
+form {
+    border: 1px solid grey;
+    padding: 10px;
+}
