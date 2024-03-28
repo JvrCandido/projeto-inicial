@@ -1,8 +1,12 @@
-/* Estilo para o cabeçalho */
+/* cor de fundo para o cabeçalho*/
 header {
     background-color: blue;
 }
-/* Estilo para todos os títulos */
+/* fonte serifada para todos os títulos*/
 h1, h2 {
     font-family: serif;
+}
+/*  links da barra de navegação em negrito*/
+nav a {
+    font-weight: bold;
 }
