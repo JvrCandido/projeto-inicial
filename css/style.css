@@ -23,3 +23,7 @@ form {
     border: 1px solid grey;
     padding: 10px;
 }
+/* Estilo para todos os parágrafos */
+p {
+    color: green;
+}
