@@ -10,3 +10,11 @@ h1, h2 {
 nav a {
     font-weight: bold;
 }
+/*   classe container */
+.container {
+    padding: 20px;
+}
+/* Estilo para todo o conteúdo dentro da section com o id conteudo */
+section {
+    line-height: 1.5;
+}
