@@ -2,3 +2,7 @@
 header {
     background-color: blue;
 }
+/* Estilo para todos os títulos */
+h1, h2 {
+    font-family: serif;
+}
